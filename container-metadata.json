@@ -1,0 +1,14 @@
+{
+  "ernVersion": "0.49.1",
+  "jsApiImpls": [],
+  "miniApps": [
+    "@rangersprotocolern/testminiapp@0.0.1"
+  ],
+  "nativeDeps": [
+    "react-native@0.66.4",
+    "ernnavigation-api@1.3.0",
+    "ernnavigation-api-impl-native@1.6.10",
+    "react-native-electrode-bridge@1.5.27"
+  ],
+  "platform": "android"
+}
